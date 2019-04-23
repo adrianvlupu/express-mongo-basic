@@ -1,0 +1,10 @@
+{
+    "events": {
+        "start": "npm run docs"
+    },
+    "ignore": [
+        "docs/",
+        "node_modules/*",
+        "public/"
+    ]
+}
